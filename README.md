@@ -27,12 +27,12 @@ Model Compression Papers!!
   
   
 ### Tutorials
-Sat 2 Nov
-Half Day AM	E5	Accelerating Computer Vision with Mixed Precision	Ming-Yu Liu(NVIDIA)
+	Sat 2 Nov
+	Half Day AM	E5	Accelerating Computer Vision with Mixed Precision	Ming-Yu Liu(NVIDIA)
 
 ### Workshops
-Mon 28 Oct
-Full day	308BC	Neural Architects	Samuel Albanie
+	Mon 28 Oct
+	Full day	308BC	Neural Architects	Samuel Albanie
 
 
 ### ETC(Personnal Interest)
