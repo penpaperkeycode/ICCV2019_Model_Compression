@@ -35,7 +35,7 @@ Mon 28 Oct
 Full day	308BC	Neural Architects	Samuel Albanie
 
 
-#### ETC(Personnal Interest)
+### ETC(Personnal Interest)
 https://arxiv.org/pdf/1907.13268.pdf   
 https://arxiv.org/abs/1904.02689  
 [WorkShops]
