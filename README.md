@@ -2,6 +2,7 @@
 
 Model Compression Papers!!
 
+### Main Conference
 #### Tuesday, October 29, 2019, 1030–1300 Poster 1.1 (Hall B)  
 	12. Adversarial Robustness vs. Model Compression, or Both?  
 	30. HAWQ: Hessian AWare Quantization of Neural Networks with Mixed-Precision  
@@ -25,7 +26,18 @@ Model Compression Papers!!
 	49	10:30	 Bayesian Optimized 1-Bit CNNs
   
   
-  
+### Tutorials
+Sat 2 Nov
+Half Day AM	E5	Accelerating Computer Vision with Mixed Precision	Ming-Yu Liu(NVIDIA)
+
+### Workshops
+Mon 28 Oct
+Full day	308BC	Neural Architects	Samuel Albanie
+
+
 #### ETC(Personnal Interest)
 https://arxiv.org/pdf/1907.13268.pdf   
 https://arxiv.org/abs/1904.02689  
+[WorkShops]
+Mon 28 Oct(Half day AM)	307BC	Lightweight Face Recognition Challenge	Jiankang Deng
+Sat 02 Nov(Full day)	301	Deep Learning for Visual SLAM
