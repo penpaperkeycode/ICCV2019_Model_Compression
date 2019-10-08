@@ -36,8 +36,8 @@ Model Compression Papers!!
 
 
 ### ETC(Personnal Interest)
-https://arxiv.org/pdf/1907.13268.pdf   
-https://arxiv.org/abs/1904.02689  
-[WorkShops]
-Mon 28 Oct(Half day AM)	307BC	Lightweight Face Recognition Challenge	Jiankang Deng
-Sat 02 Nov(Full day)	301	Deep Learning for Visual SLAM
+	https://arxiv.org/pdf/1907.13268.pdf   
+	https://arxiv.org/abs/1904.02689  
+[WorkShops]  
+	Mon 28 Oct(Half day AM)	307BC	Lightweight Face Recognition Challenge	Jiankang Deng  
+	Sat 02 Nov(Full day)	301	Deep Learning for Visual SLAM  
